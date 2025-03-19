@@ -52,13 +52,13 @@ sidebar:
     keywords:
       - item: Problem-solver 
         link:
-      - item: Reliable and Patient 
+      - item: Dependable and Resilient
         link:
-      - item: Loyal and Hardworking  
+      - item: Dedicated and Diligent
         link:
-      - item: Optimistic and Enthusiastic  
+      - item: ositive and Motivated
         link:
-      - item: Fast-learner 
+      - item: daptable and Quick Learner
         link:
       - item: Story-teller 
         link:
@@ -70,16 +70,18 @@ career-profile:
       I am a Ph.D. in physics with experience in programming, data analysis, and computer vision. 
       I particularly enjoy working with the Python scientific stack, which I have been using since 2013 when I started my Phd.  As a researcher in academia, I acquired solid mathematical skills, and the ability to work both independently and in a team. Moreover, I am a good storyteller since I have been improving my presentation skills in my academic career when I have to be able to explain complex problems in physics to non-experts, as my CV can attest. 
 
-      After 3 years of academic research as a postdoc, I found my true passion in data science, where the confluence of math, statistics, and computer science provides unique tools that are actually changing the world. I realize that data science offers me unique opportunities to cultivate my skills in a manner that allows me to reach my full career potential.  
+      After 3 years of academic research as a postdoc, I found my true passion in data science and machine learning, where the confluence of math, statistics, and computer science provides unique tools that are actually changing the world. I realize that data science offers me unique opportunities to cultivate my skills in a manner that allows me to reach my full career potential.  
 
       In 2020, I joined Flyinstinct (a startup that provides a digital platform for airport inspections developed with the most advanced technologies of computer vision and AI algorithm) as a solution scientist. After joining Flyinstinct, I have provided several key solutions that have been applied to our industrial FOD (foreign object debris) detection system, such that we successfully deployed it to Lyon and Orly Airports. Flyinstinct offers me an opportunity to master my computer vision skills, as well as customer-centric problem solving, since building an industrial product we have to always design algorithms depending on the clients' request. 
-
+      
+      After more than 2-years working at Flyinstinct, I started another journey as a machine learning engineer specialized in computer vision at OCUS, where I am responsible for developing and deploying computer vision models for image quality assessment. I am also responsible for the development of several computer vision models (e.g., object classification and detection, segmentation), which is used to make and image quality evaluation before sending to the clients. 
+      
+      In 2024, I joined the AI team at DXOMARK as a senior machine learning engineer, where I am responsible for developing and deploying computer vision models for image quality assessment. At DXOMARK, I gained a lot of experience in the field of image signal processing and color science since that is the core of the company's business.
+      
       I'm a problem solver at heart and I love to produce actionable solutions for my clients. I enjoy approaching new challenges, working and communicating with a diverse crowd. This just helps to nurture my natural curiosity.
 
-
-      My full CV (3 pages) can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/Curriculum_Vitae_Sky_ZHOU_compressed.pdf" target="_blank" rel="nofollow">full CV of Jianqiang Sky ZHOU </a>.  
-      A short one page CV can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/one_page_cv_sky.pdf" target="_blank" rel="nofollow">one-page CV of Jianqiang Sky ZHOU </a>.  
-
+      # My full CV (3 pages) can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/Curriculum_Vitae_Sky_ZHOU_compressed.pdf" target="_blank" rel="nofollow">full CV of Jianqiang Sky ZHOU </a>.  
+      # A short one page CV can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/one_page_cv_sky.pdf" target="_blank" rel="nofollow">one-page CV of Jianqiang Sky ZHOU </a>.  
 
       An interesting personality test result of myself can be found at <a href="https://www.16personalities.com/profiles/57f89ab08717a" target="_blank" rel="nofollow"> The defender personality of Jianqiang Sky ZHOU </a>.  
 
@@ -110,9 +112,24 @@ education:
       university: Harbin institute of technology (China)
       time: 2005 - 2009
 experiences:
-    - role: Senior Solution Scientist 
-      time: 2020 - now 
-      company: <a href="https://www.flyinstinct.com/" target="_blank"  rel="nofollow"> Flyininstinct</a> 
+
+    - role: Senior Machine Learning Engineer (Computer Vision)
+      time: 2024 - now
+      company: <a href="https://www.dxomark.com/" target="_blank"  rel="nofollow"> DXOMARK</a>
+      details: |
+              - Model design, training and fine tunning for image quanlity assement. 
+              - Model deployment using FastAPI.
+              - Acquired a lot of experience in the field of image signal processing and color science.
+
+    - role: Data Scientist (Deep Learning and Computer Vision)
+      time: 2022 - 2024
+      company: <a href="https://www.ocus.com/" target="_blank"  rel="nofollow"> OCUS</a>
+      details: |
+              - Model training and fine tunning for object classification, detection, and segmentation. 
+
+    - role: Senior Solution Scientist
+      time: 2020 - 2022
+      company: <a href="https://www.flyinstinct.com/" target="_blank"  rel="nofollow"> Flyininstinct</a>
       details: |
               - Introduced an instant segmentation model (i.e., <a href="https://ieeexplore.ieee.org/document/8237584" target="_blank" rel="nofollow">Mask-RCNN </a> ), which reduces more than 70% system false-positive errors. 
               - Delivered a 3D-vision based module (i.e., <a href="https://en.wikipedia.org/wiki/Orthophoto" target="_blank" rel="nofollow">Orthophoto </a>), which yields better detection performance.  
@@ -175,6 +192,16 @@ publications:
     intro: |
          The list of my publications in academic research. 
     papers:
+      - title: Image quality assessment for natural scene portraits An industrial application
+        link: "https://pcm.secure-platform.com/imaging/solicitations/102002/sessiongallery/94069/application/4525"
+        authors: Daniela Carfora Ventura, Gabriel Pacianotto Gouveia, Hoang-Son Nguyen, Jianqiang Sky Zhou, Nicolas Chahine, and Sira Ferradans 
+        conference: "Electronic Imaging (2025)"
+        
+      - title: Electron-phonon driven charge density wave in CuTe
+        link: "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.024304"
+        authors: Marco Campetella, Giovanni Marini, Jianqiang Sky Zhou, and Matteo Calandra 
+        conference: "Phys. Rev. B (2023)"
+        
       - title: Unraveling intrinsic correlation effects with angle-resolved photoemission spectroscopy
         #link: "https://arxiv.org/abs/1910.12709"
         link: "https://doi.org/10.1073/pnas.2012625117"
@@ -246,18 +273,23 @@ skills:
         level: 90%
 
       - name: Computer Vision 
-        level: 80%
+        level: 90%
 
       - name: Machine learning & Deep learning 
-        level: 70%
+        level: 80%
 
       - name: Probablity & Statistics 
         level: 70%
+
       - name: Fortran & Bash command line & SQL 
         level: 70%
 
+      - name: Image & Color Science
+        level: 60%
 
-            #       - name: Git 
+      - name: ML Ops & DevOps
+        level: 60%
+
             #        level: 98%
         #      - name: Vi & Jupyter Notebook & Latex
         #        level: 90%

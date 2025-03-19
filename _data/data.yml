@@ -64,25 +64,18 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+  title: "Career Profile"
+  summary: |
+    Ph.D. in Physics with extensive experience in programming, data analysis, and computer vision.
+    Passionate about solving real-world problems using AI and machine learning, particularly in computer vision.
+    Strong background in mathematics, scientific computing, and software engineering. Experienced in both research
+    and industry, delivering AI-powered solutions for image quality assessment, object detection, and automation.
+    Enjoys working in dynamic environments, collaborating with diverse teams, and continuously learning.
 
-    summary: |
-      Ph.D. in Physics with extensive experience in programming, data analysis, computer vision, and image processing.
-      Passionate about solving real-world problems using AI and machine learning, particularly in computer vision.
-      Strong background in mathematics, scientific computing, and software engineering. Experienced in both research
-      and industry, delivering AI-powered solutions for image quality assessment, object detection, and automation.
-      Enjoys working in dynamic environments, collaborating with diverse teams, and continuously learning.
-
-    #  # My full CV (3 pages) can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/Curriculum_Vitae_Sky_ZHOU_compressed.pdf" target="_blank" rel="nofollow">full CV of Jianqiang Sky ZHOU </a>.  
-    #  # A short one page CV can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/one_page_cv_sky.pdf" target="_blank" rel="nofollow">one-page CV of Jianqiang Sky ZHOU </a>.  
-
-      An interesting personality test result of myself can be found at <a href="https://www.16personalities.com/profiles/57f89ab08717a" target="_blank" rel="nofollow"> The defender personality of Jianqiang Sky ZHOU </a>.  
-      
-      values:
-          - Problem-solving mindset with a passion for AI-driven solutions.
-          - Enjoys working in dynamic environments with diverse teams.
-          - Driven by curiosity and continuous learning.
-          - Diverse background in physics (mainly optical physics), mathematics, computer vision, machine/deep learning, image science, and software engineering.
+  values:
+    - "Problem-solving mindset with a passion for AI-driven solutions."
+    - "Enjoys working in dynamic environments with diverse teams."
+    - "Driven by curiosity and continuous learning."
 
 
 education:

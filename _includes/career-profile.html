@@ -15,8 +15,13 @@
   </div><!--//summary-->
 
   <div class="values">
-    {{ career-profile.values | markdownify }}
-  </div><!--//values-->
+    <ul>
+      {% for value in career-profile.values %}
+        <li>{{ value }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+
 
 </section><!--//section-->
 {% endif %}

@@ -67,23 +67,23 @@ career-profile:
     title: Career Profile
 
     summary: |
-      I am a Ph.D. in physics with experience in programming, data analysis, and computer vision. 
-      I particularly enjoy working with the Python scientific stack, which I have been using since 2013 when I started my Phd.  As a researcher in academia, I acquired solid mathematical skills, and the ability to work both independently and in a team. Moreover, I am a good storyteller since I have been improving my presentation skills in my academic career when I have to be able to explain complex problems in physics to non-experts, as my CV can attest. 
+      Ph.D. in Physics with extensive experience in programming, data analysis, computer vision, and image processing.
+      Passionate about solving real-world problems using AI and machine learning, particularly in computer vision.
+      Strong background in mathematics, scientific computing, and software engineering. Experienced in both research
+      and industry, delivering AI-powered solutions for image quality assessment, object detection, and automation.
+      Enjoys working in dynamic environments, collaborating with diverse teams, and continuously learning.
 
-      After 3 years of academic research as a postdoc, I found my true passion in data science and machine learning, where the confluence of math, statistics, and computer science provides unique tools that are actually changing the world. I realize that data science offers me unique opportunities to cultivate my skills in a manner that allows me to reach my full career potential.  
-
-      In 2020, I joined Flyinstinct (a startup that provides a digital platform for airport inspections developed with the most advanced technologies of computer vision and AI algorithm) as a solution scientist. After joining Flyinstinct, I have provided several key solutions that have been applied to our industrial FOD (foreign object debris) detection system, such that we successfully deployed it to Lyon and Orly Airports. Flyinstinct offers me an opportunity to master my computer vision skills, as well as customer-centric problem solving, since building an industrial product we have to always design algorithms depending on the clients' request. 
-      
-      After more than 2-years working at Flyinstinct, I started another journey as a machine learning engineer specialized in computer vision at OCUS, where I am responsible for developing and deploying computer vision models for image quality assessment. I am also responsible for the development of several computer vision models (e.g., object classification and detection, segmentation), which is used to make and image quality evaluation before sending to the clients. 
-      
-      In 2024, I joined the AI team at DXOMARK as a senior machine learning engineer, where I am responsible for developing and deploying computer vision models for image quality assessment. At DXOMARK, I gained a lot of experience in the field of image signal processing and color science since that is the core of the company's business.
-      
-      I'm a problem solver at heart and I love to produce actionable solutions for my clients. I enjoy approaching new challenges, working and communicating with a diverse crowd. This just helps to nurture my natural curiosity.
-
-      # My full CV (3 pages) can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/Curriculum_Vitae_Sky_ZHOU_compressed.pdf" target="_blank" rel="nofollow">full CV of Jianqiang Sky ZHOU </a>.  
-      # A short one page CV can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/one_page_cv_sky.pdf" target="_blank" rel="nofollow">one-page CV of Jianqiang Sky ZHOU </a>.  
+    #  # My full CV (3 pages) can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/Curriculum_Vitae_Sky_ZHOU_compressed.pdf" target="_blank" rel="nofollow">full CV of Jianqiang Sky ZHOU </a>.  
+    #  # A short one page CV can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/one_page_cv_sky.pdf" target="_blank" rel="nofollow">one-page CV of Jianqiang Sky ZHOU </a>.  
 
       An interesting personality test result of myself can be found at <a href="https://www.16personalities.com/profiles/57f89ab08717a" target="_blank" rel="nofollow"> The defender personality of Jianqiang Sky ZHOU </a>.  
+      
+    values:
+      - "Problem-solving mindset with a passion for AI-driven solutions."
+      - "Enjoys working in dynamic environments with diverse teams."
+      - "Driven by curiosity and continuous learning."
+      - "Diverse background in physics (mainly optical physics), mathematics, computer vision, machine/deep learning, image science, and software engineering."
+
 
 education:
     - degree: Ph.D. in Theoretical Physics 
@@ -121,11 +121,21 @@ experiences:
               - Model deployment using FastAPI.
               - Acquired a lot of experience in the field of image signal processing and color science.
 
+      description: |
+            Currently, I am part of the AI team at DXOMARK, where I develop and deploy computer vision models
+            for image quality assessment. Working at the intersection of image signal processing and color science,
+            I have gained invaluable experience in optimizing image quality — a core focus of the company’s business.
+
     - role: Data Scientist (Deep Learning and Computer Vision)
       time: 2022 - 2024
       company: <a href="https://www.ocus.com/" target="_blank"  rel="nofollow"> OCUS</a>
       details: |
               - Model training and fine tunning for object classification, detection, and segmentation. 
+      description: |
+          At OCUS, I specialized in building and deploying computer vision models for image quality assessment.
+          My work involved developing models for object classification, detection, and segmentation, ensuring
+          high-quality image evaluation before delivery to clients. This role deepened my expertise in automating
+          visual content analysis at scale 
 
     - role: Senior Solution Scientist
       time: 2020 - 2022
@@ -135,6 +145,12 @@ experiences:
               - Delivered a 3D-vision based module (i.e., <a href="https://en.wikipedia.org/wiki/Orthophoto" target="_blank" rel="nofollow">Orthophoto </a>), which yields better detection performance.  
               - Invented an approach to match images with different luminosity (more efficient than the state-of-the-art, e.g., <a href="https://en.wikipedia.org/wiki/Histogram_matching" target="_blank" rel="nofollow">Histogram-matching </a>, or <a href="https://en.wikipedia.org/wiki/Gamma_correction" target="_blank" rel="nofollow">Gamma-correction </a>), which improves 50% of object detection rate. 
               - Designed a localization algorithm based on perspective transform, leading to an increase of the detection rate from smaller than 10% to more than 90%.
+      description: |
+          I joined Flyinstinct, a startup specializing in AI-powered airport inspections, as a solution scientist.
+          During my time there, I played a key role in developing and deploying computer vision solutions for our
+          industrial Foreign Object Debris (FOD) detection system, which was successfully implemented at Lyon and
+          Orly Airports. This experience sharpened my expertise in computer vision while also exposing me to
+          customer-centric problem solving—ensuring that our algorithms met specific client needs in an industrial setting. 
                 
     - role: Post-doctoral Fellow 
       time: 2018 - 2020 

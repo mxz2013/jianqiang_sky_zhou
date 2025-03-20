@@ -32,7 +32,7 @@ sidebar:
         level: Professional
 
       - idiom: French
-        level: Beginner 
+        level: Intermediate
 
     interests:
       - item: Football (MU & RM F.C.)
@@ -40,7 +40,7 @@ sidebar:
 
       - item: Table Tennis  
         link:
-      - item: Swimming 
+      - item: Running
         link:
 
       - item: Computer games (DOTA2)
@@ -66,7 +66,7 @@ sidebar:
 career-profile:
   title: "Career Profile"
   summary: |
-    Ph.D. in Physics with extensive experience in programming, data analysis, and computer vision.
+    Ph.D. in Physics with extensive experience in programming, mathematics, data analysis, image science, machine learning, and computer vision.
     Passionate about solving real-world problems using AI and machine learning, particularly in computer vision.
     Strong background in mathematics, scientific computing, and software engineering. Experienced in both research
     and industry, delivering AI-powered solutions for image quality assessment, object detection, and automation.
@@ -84,27 +84,25 @@ education:
       university: École Polytechnique
       time: 2013 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          -  Led multiple joint projects producing several top-tier peer-reviewd publications;
+        A theoretical physicist with a focus on photoemission spectroscopy and many-body physics;
+          -  Mathematical derivation and implementation of a new theoretical method for computing photoemission spectra;
+          -  Scientific writing, technical presentations, and high-performance computing (HPC);
+          
+
     - degree: M.Sc. in Molecular Nano and Biophotonics for telecommunications and biotechnologies (MONABIPHOT) 
       university: École Normale Supérieure de Cachan
       time: 2010 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        A prestigious multidisciplinary master's program integrating physics, chemistry, and biology, with a strong focus on photonics applications. 
+          - Awarded a full scholarship from the European Union (Erasmus Mundus);
+          - Earned a joint master's degree from École Normale Supérieure de Cachan (1 year) and Universidad Complutense de Madrid (0.5 year);  
 
     - degree: B.Sc. in Optoelectronic Engineering 
       university: Harbin institute of technology (China)
       time: 2005 - 2009
+      details: |
+        An engineering degree specializing in laser fundamentals and their applications.
+
 experiences:
 
     - role: Senior Machine Learning Engineer (Computer Vision)

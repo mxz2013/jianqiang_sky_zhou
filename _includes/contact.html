@@ -2,12 +2,12 @@
   <ul class="list-unstyled contact-list">
 
     {% if site.data.data.sidebar.email %}
-    <div class="contact-item">
+    <li class="contact-item">
       <i class="fas fa-envelope"></i>
       <a href="mailto:{{ site.data.data.sidebar.email.full }}" title="{{ site.data.data.sidebar.email.full }}">
         {{ site.data.data.sidebar.email.display }}
       </a>
-    </div>
+    </li>
     {% endif %}
 
     {% if sidebar.phone %}

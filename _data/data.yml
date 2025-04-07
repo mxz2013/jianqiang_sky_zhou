@@ -12,7 +12,9 @@ sidebar:
     avatar: sky_dxomark.jpeg #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jqzhou_hit@hotmail.com #jqzhou.polytechnique@gmail.com #jqzhou_hit@hotmail.com 
+    email:
+      display: sky-gmail
+      full: jqzhou.polytechnique@gmail.com
     phone: +33(0)785495109 
     #website: blog.webjeda.com #do not add http://
     linkedin: sky-zhou
